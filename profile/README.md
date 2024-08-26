@@ -2,17 +2,14 @@
 <img src="https://serenita.io/assets/logo-f400a2be.svg" width="50%"/>
 </p>
 
+Serenita offers comprehensive solutions for all your staking needs.
 
-In the wake of Ethereum's transition to a new, revolutionary consensus mechanism, staking has emerged as a process that offers individuals and businesses the opportunity to earn yield on Ether.
+We are the team behind:
 
-However, establishing and managing a reliable Ethereum staking infrastructure can be a daunting and resource-intensive task. Without expertise, costly mistakes may occur that can lead to penalties, jeopardizing the potential rewards.
+- **[vero](https://github.com/serenita-org/vero)** - the multi-node validator client that helps improve Ethereum's client diversity situation
+- **[ethstaker.tax](https://ethstaker.tax)** - the website that allows Ethereum stakers to easily calculate their staking income!
 
-Serenita specializes in providing turnkey solutions for all your Ethereum staking needs.
-
-We are behind [ethstaker.tax](https://ethstaker.tax) , the website that allows Ethereum stakers to easily calculate their staking income!
-
-Learn more about Serenita at [serenita.io](https://serenita.io) !
-
+Learn more about Serenita at **[serenita.io](https://serenita.io)** !
 
 <a href="https://twitter.com/SerenitaIO">
     <img alt="Serenita Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
